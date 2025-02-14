@@ -1,7 +1,7 @@
 import { Star } from "lucide-react"; // Import star icon for ratings
 
 function Testimonials() {
-  const reviews = [         // create an object
+  const reviews = [         // create an object array
     {
       name: "John Doe",
       text: "This booking system is amazing! Super easy to use.",
