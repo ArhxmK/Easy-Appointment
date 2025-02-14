@@ -4,20 +4,6 @@ Easy Appointment Booking
 
 Easy Appointment Booking is a web application that allows users to schedule and manage appointments efficiently. It includes user authentication, JWT-based security, and a MySQL database for data management.
 
-✨ Features
-
-✅ User authentication (Register & Login)✅ Secure JWT authentication✅ Book, view, edit, and delete appointments✅ Fully responsive UI using React & Tailwind CSS✅ MySQL database integration✅ RESTful API with Node.js & Express.js✅ Error handling & validation for better security
-
-🛠️ Tech Stack
-
-Frontend: React.js, Tailwind CSS, React Router
-
-Backend: Node.js, Express.js, MySQL
-
-Auth: JWT (JSON Web Tokens)
-
-Database: MySQL
-
 🚀 Installation Guide
 
 1️⃣ Clone the Repository
